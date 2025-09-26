@@ -22,3 +22,9 @@ src -
 app.js
 // in react in the main app their should be only one div or "block" thst os exported all the things should be raped inside that 
    inside the "app function "
+
+package.lock.json -- in this a particular versio of the file is locked tat is required for the project to run 
+so that version is maintained
+
+in puclic / index.html --
+this file is the file that is mainly running and in this fiole only the javascript file that is the index.js / main.jsx the file is renderd or called or linked in this html file

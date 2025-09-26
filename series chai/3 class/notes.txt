@@ -1,0 +1,39 @@
+index.html 
+this is the main file has the root component 
+--------
+
+index.js /main.jsx
+in this react creates its own dom "virtrual dom" ,and then in that 
+we are creating component
+
+in this file w
+hat relly hapens is that our "app" is rapped in inside the "react.strictMode" this is a mode that is makinging helpuf nature in development mode 
+and the strict mode in "strict" mode some more regulations are their in order to have a safe devalopment alltogether
+
+
+
+
+----------
+jsx
+
+
+javascriptxml or we can say it as javascript + html 
+jsx gives us power to use javscript and html at the same time and then it gives us power to
+crete "custiom elements like <App/>" and ue it  
+
+we can return only one element 
+and the component can be made "with capital latter"
+so what we do is we wrap all the component code under a "fragment <></>" and then is that case all the code is wraped inside a single or one block
+
+---------------
+react 
+it maily have three things "react" main library and the 
+react-dom -- the part used for website development or the dom manupulation things
+react-native -- the part used for the mobile development things
+-----------
+
+Components 
+-- when ever creting a component it should return only one "div" or the "fragment<></>"
+-- alwas make the component with first latter as capital "Comonent"
+-- compoennt name asks for keeping the compnent file name with .jsx as the extention
+-- is using js and only js then use ".js" as the extention and if the file using  the html and the js togethethen in that case we need to keep ".jsx"as the extention
