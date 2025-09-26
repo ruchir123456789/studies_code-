@@ -2,4 +2,18 @@ react
 frame work and librarary 
 freame work 
 
-it is like milatery means we have to fallow the rules and that is 
+--it is like milatery means we have to fallow the rules and that is it has whole atchetecue and flow how
+to mange the file and the architecture of file would be made 
+--framework call the code means you fit yor app with the architecture or skeliton of 
+framework
+--many things already handeled
+--code depend on frame work life cycle and it process eg - Angular , ruby on rail and spring boot , Django
+
+
+library 
+
+--collection of reausable code , you call the library functions when ever you need it 
+-- more flaxible , also can be know as cooldude
+--eg - react ,axios , jquery , lodash your code depens on the only library function you used 
+-- you call the librarary functions when ever you need them 
+
