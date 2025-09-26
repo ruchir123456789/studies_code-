@@ -1,0 +1,24 @@
+start with 
+node install 
+the node -v // version check 
+then npx create-react-app . // coomad to create react appliction in the sam folder old way and heavy 
+so we use bundlers like vite or parcel 
+they are budler who are know for the file managing bundle file manging much lite in weight
+
+vite 
+
+npm create vite@latest
+file structure 
+src - 
+  index.js / main.jsx- 
+   in this file we have the root file  we can delete the comments writen 
+   in that the main app component is rendered
+
+   app.js - 
+   in this you can keep only one div inside and "app function" in that keep only one 
+   <h1> hello ji </h1> 
+
+
+app.js
+// in react in the main app their should be only one div or "block" thst os exported all the things should be raped inside that 
+   inside the "app function "
